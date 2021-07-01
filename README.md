@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cr45hmurphy" alt="cr45hmurphy" /></a> </p>
 
-- 🔭 I’m currently working on [scrollpHATHD_weather](https://github.com/cr45hmurphy/scrollpHATHD_weather)
+- 🔭 I’m currently working on: [scrollpHATHD_weather](https://github.com/cr45hmurphy/scrollpHATHD_weather)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning: **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cr45hmurphy](https://github.com/cr45hmurphy)
+- 👨‍💻 All of my projects are available at: [https://github.com/cr45hmurphy](https://github.com/cr45hmurphy)
 
-- 📝 I regularly write articles on [www.theadventuringgm.com](www.theadventuringgm.com)
+- 📝 I regularly write articles on: [www.theadventuringgm.com](www.theadventuringgm.com)
 
-- 💬 Ask me about **Retropie, Ubuntu**
+- 💬 Ask me about: **Retropie, Ubuntu, Foundry**
 
-- 📫 How to reach me **cr45hmurphy@gmail.com**
+- 📫 How to reach me: **cr45hmurphy@gmail.com**
 
-- ⚡ Fun fact **Your mom is a fun fact.**
+- ⚡ Fun fact: **Your mom is a fun fact.**
 
 
 <h3 align="left">Languages and Tools:</h3>
