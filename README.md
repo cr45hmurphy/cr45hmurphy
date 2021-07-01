@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dade Murphy</h1>
-<h3 align="center">Just a dude trying to learn more about programming, and use it to help make the world a little bit better, and more fun, where possible.</h3>
+<h3 align="center">Just a dude trying to learn more about programming, and use it to help make the world a little bit better (and more fun) where possible.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cr45hmurphy&label=Profile%20views&color=0e75b6&style=flat" alt="cr45hmurphy" /> </p>
 
