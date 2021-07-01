@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cr45hmurphy](https://github.com/cr45hmurphy)
 
-- 📝 I regularly write articles on [www.crazysweetdreams.com](www.crazysweetdreams.com)
+- 📝 I regularly write articles on [www.theadventuringgm.com](www.theadventuringgm.com)
 
 - 💬 Ask me about **Retropie, Ubuntu**
 
